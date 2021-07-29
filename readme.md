@@ -6,8 +6,7 @@ The SQL data to replicate or reproduce this dataset and our
 database system has been provided along with the report. The
 order of execution is explained in simple terms as below.
 
-	1. Create a database named in your choice (Eg:
-	Pharmacy)
+	1. Create a database named in your choice (Eg:Pharmacy)
 
 	2. Create Tables:
 	CREATE.sql - the order is maintained so the file can be executed
